@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "cm:molten_emerald"
+    },
+ 
+    {
+      "item": "cm:molten_diamond"
+    }
+    
+    ],
+ 
+    "result": 
+    {
+        "item": "cm:alloy",
+        "count": 1
+    }
+}

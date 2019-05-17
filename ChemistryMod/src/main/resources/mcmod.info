@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cm",
+  "name": "Chemistry Mod",
+  "description": "A mod related to chemistry in minecraft",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["yourri1012, munger100,p poussin "],
+  "credits": "for the programmation final project",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

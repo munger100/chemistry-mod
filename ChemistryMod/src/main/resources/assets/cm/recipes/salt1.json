@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "cm:sodium"
+    },
+ 
+    {
+      "item": "cm:chlorine"
+    }
+    
+    ],
+ 
+    "result": 
+    {
+        "item": "cm:salt",
+        "count": 1
+    }
+}

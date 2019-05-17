@@ -1,0 +1,15 @@
+{
+	"variants": {
+		"normal": { "model": "cm:hot_plate"},
+ 		"burning=true,facing=north": { "model": "cm:hot_plate"},
+ 		"burning=true,facing=south": { "model": "cm:hot_plate"},
+		"burning=true,facing=west": { "model": "cm:hot_plate"},
+		"burning=true,facing=east": { "model": "cm:hot_plate"},
+		"burning=false,facing=north": { "model": "cm:hot_plate"},
+        "burning=false,facing=south": { "model": "cm:hot_plate"},
+        "burning=false,facing=west": { "model": "cm:hot_plate"},
+        "burning=false,facing=east": { "model": "cm:hot_plate"}
+     
+		
+	}
+}

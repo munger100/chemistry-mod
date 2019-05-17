@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "cm:strong_acid"
+    },
+ 
+    {
+      "item": "cm:weak_base"
+    }
+    
+    ],
+ 
+    "result": 
+    {
+        "item": "cm:salty_water",
+        "count": 1
+    }
+}

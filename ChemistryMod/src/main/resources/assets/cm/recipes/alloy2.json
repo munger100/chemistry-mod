@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "cm:molten_iron"
+    },
+ 
+    {
+      "item": "cm:molten_copper"
+    }
+    
+    ],
+ 
+    "result": 
+    {
+        "item": "cm:alloy",
+        "count": 1
+    }
+}

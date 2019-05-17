@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.yourri1012.chemistrymod.init.ModBlocks" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/init/ModBlocks.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="16914" y="-36"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="2" language="java" name="com.yourri1012.chemistrymod.util" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/util" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5337" y="167"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="com.yourri1012.chemistrymod.tabs" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/tabs" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5639" y="167"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="4" language="java" name="com.yourri1012.chemistrymod.tileEntities.TileEntityHotPlate" 
+    project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/tileEntities/TileEntityHotPlate.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="14864" y="106"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.yourri1012.chemistrymod.commands.CommandPlayHard" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/commands/CommandPlayHard.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="12864" y="683"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="6" language="java" name="com.yourri1012.chemistrymod.items.blocks" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6259" y="167"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="7" language="java" name="com.yourri1012.chemistrymod.objectives.Gamemode" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/objectives/Gamemode.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="12470" y="334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.yourri1012.chemistrymod.items.blocks.gui.GuiHotPlate" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/gui/GuiHotPlate.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="14854" y="483"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.yourri1012.chemistrymod.init.ModItems" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/init/ModItems.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="17189" y="123"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.yourri1012.chemistrymod.objectives.Objective" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/objectives/Objective.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="12837" y="350"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.yourri1012.chemistrymod.util.Reference" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/util/Reference.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="17475" y="-39"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="com.yourri1012.chemistrymod.util.IHasModel" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/util/IHasModel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="16590" y="367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="com.yourri1012.chemistrymod.items.blocks.gui.GuiObjectiveTable" 
+    project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/gui/GuiObjectiveTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="14611" y="1165"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.yourri1012.chemistrymod.commands.CommandLobby" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/commands/CommandLobby.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="12453" y="673"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="15" language="java" name="com.yourri1012.chemistrymod.init" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/init" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="258" x="4584" y="-45"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="16" language="java" name="com.yourri1012.chemistrymod.items.blocks.HotPlate" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/HotPlate.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="15469" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="17" language="java" name="com.yourri1012.chemistrymod.commands" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/commands" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="311" x="4882" y="-45"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="18" language="java" name="com.yourri1012.chemistrymod.items.blocks.gui" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/gui" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="350" x="5233" y="-45"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="19" language="java" name="com.yourri1012.chemistrymod.items.potions.CustomPotion" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/potions/CustomPotion.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="15960" y="591"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="20" language="java" name="com.yourri1012.chemistrymod.items.blocks.recipes" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/recipes" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="381" x="5917" y="-45"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="21" language="java" name="com.yourri1012.chemistrymod.tabs.ChemistryTab" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/tabs/ChemistryTab.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="16909" y="388"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.yourri1012.chemistrymod.items.blocks.AlchemyTable" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/AlchemyTable.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="16084" y="170"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.yourri1012.chemistrymod.items.blocks.containers.ContainerObjectiveTable" 
+    project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/containers/ContainerObjectiveTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="15555" y="1189"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="24" language="java" name="com.yourri1012.chemistrymod.items.blocks.slots" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/slots" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="362" x="6581" y="-45"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="25" language="java" name="com.yourri1012.chemistrymod.items.armor" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/armor" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="319" x="6983" y="-45"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="26" language="java" name="com.yourri1012.chemistrymod.items.blocks.slots.ObjectiveTableSlots" 
+    project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/slots/ObjectiveTableSlots.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="15586" y="1429"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="27" language="java" name="com.yourri1012.chemistrymod.tileEntities" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/tileEntities" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="312" x="7661" y="-45"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="28" language="java" name="com.yourri1012.chemistrymod" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="232" x="8013" y="-45"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="29" language="java" name="com.yourri1012.chemistrymod.objectives" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/objectives" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="310" x="8285" y="-45"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="30" language="java" name="com.yourri1012.chemistrymod.items.armor.ArmorBase" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/armor/ArmorBase.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="16768" y="190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="31" language="java" name="com.yourri1012.chemistrymod.items.blocks.containers" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/containers" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="403" x="8920" y="-45"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="32" language="java" name="com.yourri1012.chemistrymod.items.ItemBase" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/ItemBase.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="16388" y="202"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="com.yourri1012.chemistrymod.init.PotionInit" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/init/PotionInit.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="16254" y="695"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="com.yourri1012.chemistrymod.util.handlers.GuiHandler" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/util/handlers/GuiHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="14842" y="819"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="35" language="java" name="com.yourri1012.chemistrymod.items.potions" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/potions" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="331" x="10134" y="-45"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="36" language="java" name="com.yourri1012.chemistrymod.util.handlers.TileEntityHandler" 
+    project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/util/handlers/TileEntityHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="15308" y="814"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="37" language="java" name="com.yourri1012.chemistrymod.proxy" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/proxy" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="10913" y="2"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="38" language="java" name="com.yourri1012.chemistrymod.creativetabs" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/creativetabs" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="11253" y="2"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="39" language="java" name="com.yourri1012.chemistrymod.world" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/world" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="11592" y="2"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="40" language="java" name="com.yourri1012.chemistrymod.items.blocks.containers.ContainerHotPlate" 
+    project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/containers/ContainerHotPlate.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="15221" y="582"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="com.yourri1012.chemistrymod.util.handlers.RegistryHandler" 
+    project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/util/handlers/RegistryHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="14084" y="422"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="com.yourri1012.chemistrymod.items.blocks.ObjectiveTable" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/ObjectiveTable.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="16840" y="766"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="com.yourri1012.chemistrymod.objectives.ObjectivesList" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/objectives/ObjectivesList.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="13200" y="383"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="com.yourri1012.chemistrymod.proxy.ClientProxy" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/proxy/ClientProxy.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="13791" y="240"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="com.yourri1012.chemistrymod.proxy.CommonProxy" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/proxy/CommonProxy.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="14131" y="208"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="46" language="java" name="com.yourri1012.chemistrymod.util.handlers" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/util/handlers" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="11564" y="295"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="47" language="java" name="com.yourri1012.chemistrymod.Main" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="14135" y="3"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="com.yourri1012.chemistrymod.items.blocks.BlockBase" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items/blocks/BlockBase.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="16109" y="406"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="49" language="java" name="com.yourri1012.chemistrymod.items" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/items" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="11555" y="171"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="50" language="java" name="com.yourri1012.chemistrymod.tileEntities.TileEntityObjectiveTable" 
+    project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/tileEntities/TileEntityObjectiveTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="15086" y="1268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="com.yourri1012.chemistrymod.commands.CommandPlayEasy" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/commands/CommandPlayEasy.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="13314" y="669"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="com.yourri1012.chemistrymod.world.WorldEvents" project="Chemistry Mod" 
+    file="/Chemistry Mod/src/main/java/com/yourri1012/chemistrymod/world/WorldEvents.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="13798" y="-4"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <realization id="54">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="55">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <association id="56">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="57" name="tileentity"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="60" name="tileentity"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="63" name="proxy"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="65">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="45"/>  
+  </generalization>  
+  <association id="66">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="67" name="list"/>      
+      <multiplicity id="68" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="69">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="70">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="71" name="tileEntity"/>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="73">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <association id="74">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="75" name="tileEntity"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="77">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <association id="78">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="79" name="instance"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "cm:objective_table" },
+        "facing=east": { "model": "cm:objective_table", "y": 90 },
+        "facing=south": { "model": "cm:objective_table", "y": 180 },
+        "facing=west": { "model": "cm:objective_table", "y": 270 }
+    }
+}

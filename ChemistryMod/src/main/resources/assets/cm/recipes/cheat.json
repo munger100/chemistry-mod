@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "C W",
+        "   ",
+        "S N"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:copper"
+        },
+        
+        "W":
+        {
+            "item": "cm:weak_acid"
+        },
+        
+        "S":
+        {
+            "item": "cm:salt"
+        },
+        
+        "N":
+        {
+            "item": "cm:sodium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "cm:objective_skip",
+        "count": 1
+    }
+}

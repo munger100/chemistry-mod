@@ -1,0 +1,60 @@
+//Items
+item.weak_acid.name=Weak Acid
+item.strong_acid.name=Strong Acid
+item.weak_base.name=Weak Base
+item.strong_base.name=Strong Base
+item.salt.name=Salt
+item.sodium.name=Sodium
+item.molten_sodium=Molten Sodium
+item.calcium.name=Calcium
+item.molten_calcium.name=Molten Calcium
+item.helium.name=Helium
+item.hydrogen.name=Hydrogen
+item.platinum.name=Platinum
+item.molten_platinum.name=Molten Platinum
+item.copper.name=Copper
+item.molten_copper.name=Molten Copper
+item.objective_skip.name=Cheat
+item.poulin.name=Poulin
+item.chlorine.name=Chlorine
+item.molten_iron.name=Molten Iron
+item.alloy.name=Alloy
+item.molten_gold.name=Molten Gold
+item.molten_copper.name=Molten Copper
+item.molten_platinum.name=Molten Platinum
+item.molten_diamond.name=Molten Diamond
+item.molten_emerald.name=Molten Emerald
+item.salty_water.name=Salty Water
+
+//Armors
+item.lab_goggles.name=Lab Goggles
+item.lab_coat.name=Lab Coat
+
+
+//Potions
+effect.faster_potion=Faster Potion
+potion.effect.faster_potion= Faster Potion
+splash_potion.effect.faster_potion= Splash potion of Faster Potion
+lingering_potion.effect.your_potion=Lingering of FasterPotion
+
+effect.fire_potion=Fire Potion
+potion.effect.fire_potion= Fire Potion
+splash_potion.effect.fire_potion= Splash potion of Fire Potion
+lingering_potion.effect.fire_potion=Lingering of FirePotion
+
+effect.anti_gravity=Anti Gravity
+potion.effect.anti_gravity= Anti Gravity Effect
+splash_potion.effect.anti_gravity= Splash Anti Gravity Potion
+lingering_potion.effect.anti_gravity=Lingering of Anti Gravity Potion
+
+//Blocks
+tile.alchemy_table.name=Alchemy Table
+tile.splitting_table.name=Splitting Table
+tile.objective_table.name=Objective Table
+tile.hot_plate.name=Hot Plate
+
+//Tab
+itemGroup.chemistrytab=Chemistry Mod
+
+// Containers
+containers.container_hot_plate.name=Hot Plate
